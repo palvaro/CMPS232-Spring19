@@ -10,11 +10,11 @@
 |4/15|Naming|<a href="https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf">Chord: A Scalable Peer-to-peer Lookup Service for Internet Applications</a>||
 |4/18|Storage|<a href="http://www.cs.princeton.edu/~wlloyd/papers/eiger-nsdi13.pdf">Stronger Semantics for Low-Latency Geo-Replicated Storage</a>||
 |4/20|Storage|<a href="http://zoo.cs.yale.edu/classes/cs422/2013/bib/terry95managing.pdf">Managing update conflicts in Bayou, a weakly connected replicated storage system</a>||
-|4/22|||
-|4/25|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|j|
+|4/22||possible sub|
+|4/25||possible sub|
 |4/27|Fault tolerance|<a href="https://people.ucsc.edu/~palvaro/molly.pdf">Lineage-driven Fault Injection</a>||
 |4/29|norcal DB day|<a href="">Guest / sub / no class</a>||
-|5/2|||
+|5/2|Consensus|<a href="http://pmg.csail.mit.edu/papers/osdi99.pdf">Practical Byzantine Fault Tolerance</a>|j|
 |5/4|Lightning Talks!||
 |5/6| Lightning Talks||
 |5/9|Storage|<a href="https://syslab.cs.washington.edu/papers/tapir-tr14.pdf">Building Consistent Transactions with Inconsistent Replication</a>||
